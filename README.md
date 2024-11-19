@@ -15,6 +15,8 @@
 <img src="assets/css-3.png" width="30px"/>
 <img src="assets/java.png" width="30px"/>
 <img src="assets/python.png" width="30px"/>
+<img src="assets/cisco.png" width="30px"/>
+<img src="assets/aws.png" width="30px"/>
 </p>
 
 
