@@ -1,16 +1,21 @@
-## Hi there 👋
+# <p align="center">👋 Welcome to my profile 👋</p>
 
-<!--
-**franciscoliveira-pt/franciscoliveira-pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align=center> <p align=center>Software Engineering Student @ISEP</p><p align=center>Network Engineer Student @ISEPACADEMY</p></p>
 
-Here are some ideas to get you started:
+### <p align=center><a align=center href="https://franciscoliveira-pt.github.io/">Check My Work</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies
+
+<p>
+<img src="assets/typescript.png" width="30px"/>
+<img src="assets/js.png" width="30px"/>
+<img src="assets/node-js.png" width="30px"/>
+<img src="assets/react.svg" width="30px"/>
+<img src="assets/html.png" width="30px"/>
+<img src="assets/css-3.png" width="30px"/>
+<img src="assets/java.png" width="30px"/>
+<img src="assets/python.png" width="30px"/>
+</p>
+
+
+
